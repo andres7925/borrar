@@ -2,6 +2,9 @@ def suma(a, b):
     """Suma dos números y retorna el resultado."""
     return a + b
 
+def resta(a, b):
+    """Resta dos números y retorna el resultado."""
+    return a - b
 
 # Ejemplo de uso
 resultado = suma(5, 3)
